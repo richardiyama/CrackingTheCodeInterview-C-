@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  DepthLinkList.cpp
+c:\users\olakunle okunola\documents\visual studio 2015\projects\depthlinklist\depthlinklist\depthlinklist.cpp(69): warning C4018: '<': signed/unsigned mismatch
+c:\users\olakunle okunola\documents\visual studio 2015\projects\depthlinklist\depthlinklist\depthlinklist.cpp(70): warning C4018: '<': signed/unsigned mismatch
+  DepthLinkList.vcxproj -> c:\users\olakunle okunola\documents\visual studio 2015\Projects\DepthLinkList\Debug\DepthLinkList.exe
+  DepthLinkList.vcxproj -> c:\users\olakunle okunola\documents\visual studio 2015\Projects\DepthLinkList\Debug\DepthLinkList.pdb (Full PDB)

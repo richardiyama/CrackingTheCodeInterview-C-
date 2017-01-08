@@ -1,0 +1,4 @@
+﻿  ReturnSum.cpp
+c:\users\olakunle okunola\documents\visual studio 2015\projects\returnsum\returnsum\returnsum.cpp(70): warning C4715: 'add2l': not all control paths return a value
+  ReturnSum.vcxproj -> c:\users\olakunle okunola\documents\visual studio 2015\Projects\ReturnSum\Debug\ReturnSum.exe
+  ReturnSum.vcxproj -> c:\users\olakunle okunola\documents\visual studio 2015\Projects\ReturnSum\Debug\ReturnSum.pdb (Full PDB)

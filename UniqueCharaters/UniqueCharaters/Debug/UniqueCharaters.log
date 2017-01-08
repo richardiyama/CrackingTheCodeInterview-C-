@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  UniqueCharaters.cpp
+c:\users\olakunle okunola\documents\visual studio 2015\projects\uniquecharaters\uniquecharaters\uniquecharaters.cpp(14): warning C4018: '<': signed/unsigned mismatch
+c:\users\olakunle okunola\documents\visual studio 2015\projects\uniquecharaters\uniquecharaters\uniquecharaters.cpp(15): warning C4018: '<': signed/unsigned mismatch
+c:\users\olakunle okunola\documents\visual studio 2015\projects\uniquecharaters\uniquecharaters\uniquecharaters.cpp(26): warning C4018: '<': signed/unsigned mismatch
+  UniqueCharaters.vcxproj -> c:\users\olakunle okunola\documents\visual studio 2015\Projects\UniqueCharaters\Debug\UniqueCharaters.exe
+  UniqueCharaters.vcxproj -> c:\users\olakunle okunola\documents\visual studio 2015\Projects\UniqueCharaters\Debug\UniqueCharaters.pdb (Full PDB)

@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (DuplicateCharacters.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+  AnagramsCharacters.cpp
+c:\users\olakunle okunola\documents\visual studio 2015\projects\duplicatecharacters\duplicatecharacters\anagramscharacters.cpp(15): warning C4018: '<': signed/unsigned mismatch
+c:\users\olakunle okunola\documents\visual studio 2015\projects\duplicatecharacters\duplicatecharacters\anagramscharacters.cpp(18): warning C4018: '<': signed/unsigned mismatch
+  DuplicateCharacters.vcxproj -> c:\users\olakunle okunola\documents\visual studio 2015\Projects\DuplicateCharacters\Debug\AnagramsCharacters.exe
+  DuplicateCharacters.vcxproj -> c:\users\olakunle okunola\documents\visual studio 2015\Projects\DuplicateCharacters\Debug\AnagramsCharacters.pdb (Full PDB)

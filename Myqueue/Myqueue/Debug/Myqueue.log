@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  Myqueue.cpp
+c:\users\olakunle okunola\documents\visual studio 2015\projects\myqueue\myqueue\myqueue.cpp(53): warning C4715: 'MyQueue<int>::front': not all control paths return a value
+  Myqueue.vcxproj -> c:\users\olakunle okunola\documents\visual studio 2015\Projects\Myqueue\Debug\Myqueue.exe
+  Myqueue.vcxproj -> c:\users\olakunle okunola\documents\visual studio 2015\Projects\Myqueue\Debug\Myqueue.pdb (Full PDB)
