@@ -2,8 +2,6 @@
 //
 
 #include "stdafx.h"
-
-
 #include <iostream>
 #include <stack>
 using namespace std;
