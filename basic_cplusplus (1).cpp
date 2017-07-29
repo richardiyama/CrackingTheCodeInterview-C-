@@ -39,6 +39,7 @@ public:
   virtual void makeNoise() { std::cout << "This animal makes no sound." << std::endl; }
 };
 
+
 /////////////////////////////////////////////////////////////////////////////
 // Start here
 
