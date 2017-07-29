@@ -9,6 +9,7 @@
 
 using namespace std;
 
+
 class CheckSubstring {
 public:
 	bool check(string string1, string string2) {
