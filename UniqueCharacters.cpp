@@ -33,6 +33,7 @@ int main(){
   Solution sol;
   string str = "asdafajkbczmvbus";
   //cin >> str;
+  
   cout << str  << ": ";
   sol.isunique1(str) ? (cout << "true" << endl) : (cout << "false" << endl);
   cout << str<< ": ";
